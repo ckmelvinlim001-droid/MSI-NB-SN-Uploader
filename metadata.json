@@ -1,0 +1,6 @@
+{
+  "name": "MSI SN Uploader",
+  "description": "Mobile batch photo uploader with client-side compression and Google Drive integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

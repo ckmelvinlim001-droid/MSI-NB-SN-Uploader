@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Screen Bezel / Outer Lid -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M30,30 h48 c3.3,0 6,2.7 6,6 v26 h-60 V36 c0,-3.3 2.7,-6 6,-6 z" />
+
+    <!-- Screen Glass / Display (Bright Cyber Cyan Glow) -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M34,34 h40 v24 H34 Z" />
+
+    <!-- Screen Content: Code / Tech lines on laptop screen -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M38,39 h16 v2 H38 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M38,44 h24 v2 H38 Z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M38,49 h10 v2 H38 Z" />
+
+    <!-- Upload Cloud arrow on screen -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M64,43 L60,47 H62 V53 H66 V47 H68 Z" />
+
+    <!-- Laptop WebCam Dot -->
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M54,31.5 A1,1 0 1,0 54,33.5 A1,1 0 1,0 54,31.5 Z" />
+
+    <!-- Laptop Lower Body / Keyboard Base -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M24,62 h60 l-3,11 c-0.6,2.2 -2.6,3.8 -4.9,3.8 H31.9 c-2.3,0 -4.3,-1.6 -4.9,-3.8 L24,62 z" />
+
+    <!-- Trackpad -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M48,67 h12 v4 H48 Z" />
+
+    <!-- Front Opening Thumb Notch -->
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M51,62 h6 v1.5 H51 Z" />
+</vector>
